@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/robond/aman/robotic_ws/devel:$CMAKE_PREFIX_PATH"
 export PWD="/home/robond/aman/robotic_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/robond/aman/robotic_ws/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/robond/aman/robotic_ws/src:$ROS_PACKAGE_PATH"
