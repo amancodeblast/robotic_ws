@@ -1,3 +1,0 @@
-<launch>
-<node name="rviz" pkg="rviz" type="rviz" args="-d /home/robond/aman/robotic_ws/src/EKF_rviz.rviz" />
-</launch>
